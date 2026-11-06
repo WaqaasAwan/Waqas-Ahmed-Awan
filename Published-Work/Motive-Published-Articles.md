@@ -69,6 +69,4 @@ A Motive Help Center collection containing Beacon-related support content.
 
 [View the Beacons collection](https://helpcenter.gomotive.com/hc/en-us/sections/31272385385757-Beacons)
 
-A Motive Help Center collection containing Beacon-related support content.
 
-[View the Beacons collection](https://helpcenter.gomotive.com/hc/en-us/sections/31272385385757-Beacons)
