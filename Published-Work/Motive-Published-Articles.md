@@ -69,4 +69,46 @@ A Motive Help Center collection containing Beacon-related support content.
 
 [View the Beacons collection](https://helpcenter.gomotive.com/hc/en-us/sections/31272385385757-Beacons)
 
+## Motive Cards, Payments & Financial Management
+
+### 1. [Cards Overview](https://helpcenter.gomotive.com/hc/en-us/articles/31079693989021-Cards-Overview)
+
+An overview of Motive Cards and their features.
+
+### 2. [Motive Fleet Pass](https://helpcenter.gomotive.com/hc/en-us/articles/39743747431837-Motive-Fleet-Pass)
+
+Product information and guidance about Motive Fleet Pass.
+
+### 3. [Increasing Credit Limit Using a Security Deposit](https://helpcenter.gomotive.com/hc/en-us/articles/37985416375069-Increasing-Credit-Limit-using-a-Security-Deposit)
+
+Guidance on increasing a credit limit using a security deposit.
+
+### 4. [Card Management](https://helpcenter.gomotive.com/hc/en-us/articles/31214921907229-Card-Management)
+
+Information about managing Motive Cards.
+
+### 5. [Rebate Visibility for Motive Cards](https://helpcenter.gomotive.com/hc/en-us/articles/36718662502301-Rebate-Visibility-for-Motive-Cards)
+
+Guidance on viewing rebate information associated with Motive Cards.
+
+### 6. [Motive Card for Digital Wallets](https://helpcenter.gomotive.com/hc/en-us/articles/35712031175325-Motive-Card-for-Digital-Wallets)
+
+Information about using Motive Cards with digital wallets.
+
+### 7. [Secured Motive Card](https://helpcenter.gomotive.com/hc/en-us/articles/34508800227101-Secured-Motive-Card)
+
+Product information and guidance about the Secured Motive Card.
+
+### 8. [Reviewing Transactions](https://helpcenter.gomotive.com/hc/en-us/articles/33867932779933-Reviewing-Transactions)
+
+Instructions for reviewing financial transactions.
+
+### 9. [Managing Cards in Fleet App](https://helpcenter.gomotive.com/hc/en-us/articles/32220611762973-Managing-Cards-in-Fleet-App)
+
+Guidance on managing cards through the Motive Fleet App.
+
+### 10. [Group Invoicing](https://helpcenter.gomotive.com/hc/en-us/articles/32219096034077-Group-Invoicing)
+
+Information about group invoicing and billing management.
+
 
